@@ -1,0 +1,64 @@
+{
+  "name": "tron-ares-theme",
+  "displayName": "Tron-Ares",
+  "description": "A VS Code theme inspired by the movie 'Tron: Ares'.",
+  "homepage": "https://github.com/adib82302/tron-ares-theme",
+  "publisher": "AdibKhondoker",
+  "icon": "images/icon.png",
+  "version": "0.0.1",
+  "license": "MIT",
+  "categories": ["Themes"],
+  "keywords": [
+    "dark",
+    "theme",
+    "themes",
+    "dark-theme",
+    "color-theme",
+    "tron",
+    "black",
+    "red",
+    "black and red",
+    "tron ares",
+    "Tron-Ares",
+    "Ares"
+  ],
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "galleryBanner": {
+    "color": "#0c0c0c",
+    "theme": "dark"
+  },
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "author": {
+    "name": "Adib Khondoker",
+    "email": "adib.khondok@gmail.com",
+    "url": "https://github.com/adib82302"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adib82302/tron-ares-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adib82302/tron-ares-theme/issues",
+    "email": "adib.khondok@gmail.com"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tron-Ares Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tron-Ares-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "editor.guides.indentation": true,
+      "editor.guides.highlightActiveIndentation": true,
+      "editor.bracketPairColorization.enabled": true,
+      "editor.guides.bracketPairs": true,
+      "editor.minimap.enabled": true
+    }
+  }
+}
