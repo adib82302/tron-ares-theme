@@ -1,4 +1,9 @@
+## 0.1.3
+
+- Updated README.md with proper licensing
+
 ## 0.1.2
+
 - Updated IOshield to properly display version number and download count
 
 ## 0.1.1

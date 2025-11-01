@@ -1,11 +1,11 @@
 # Tron-Ares_Theme
 
-![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000&cacheSeconds=86400)
+![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000&cacheSeconds=3600)
 ![Downloads](https://img.shields.io/visual-studio-marketplace/d/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000&cacheSeconds=86400)
 ![License](https://img.shields.io/github/license/adib82302/tron-ares-theme?style=for-the-badge&color=%23ff0000)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adib82302/tron-ares-theme/main/images/banner.png" width="100%" alt="Tron-Ares Theme Banner">
+  <img src="https://images8.alphacoders.com/635/thumb-1920-635726.jpg" width="100%" alt="Tron-Ares Theme Banner">
 </p>
 
 > Visual Studio Code color theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
@@ -64,5 +64,10 @@ and turning these parameters off
 This theme is an independent fan creation inspired by Tron: Ares. All copyrights, trademarks, and related intellectual property for Tron, Tron: Ares, and associated designs, imagery, and logos are the property of The Walt Disney Company and its affiliates. This project is not affiliated with, endorsed by, or sponsored by Disney in any way.
 
 
-> icon picture link: https://cults3d.com/en/3d-model/art/tron-ares-disc  
-> banner picture link: https://wall.alphacoders.com/big.php?i=635726
+> Icon artwork: [Tron Ares Disc by the TRISTANMILLER on Cults3D](https://cults3d.com/en/3d-model/art/tron-ares-disc)  
+> Licensed under [Cults CU-ND](https://cults3d.com/en/licenses#cults_cu_nd).  
+> Used unmodified for non-commercial, fan-theme purposes.
+> The Tron Ares disc icon is used under the Cults CU-ND license, unmodified and credited to its original creator.
+
+> Banner artwork link: https://wall.alphacoders.com/big.php?i=635726  
+> Banner artwork used for illustrative, non-commercial fan purposes under fair use. All rights remain with their respective owners.
