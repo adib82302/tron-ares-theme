@@ -18,7 +18,7 @@
 </p>
 
 
-It is an AGGRESIVELY red and black theme designed to mimic the Dillinger's Grid harsh and authoritarian system. According to my own fan-theory, this "grid" takes place inside a CPU rather than an entire server like Flynns grid, so the world design is very industrial, designed to produce output and nothing more. I hope this theme is able to achieve the same aesthetic and harshness.
+It is an aggresively red and black theme designed to mimic the Dillinger's Grid harsh and authoritarian system. According to my own fan-theory, this "grid" takes place inside a CPU rather than an entire server like Flynns grid, so the world design is very industrial, designed to produce output and nothing more. I hope this theme is able to achieve the same aesthetic and harshness.
 
 ## Features
 - Deep red-on-black aesthetic inspired by Tron: Ares 
