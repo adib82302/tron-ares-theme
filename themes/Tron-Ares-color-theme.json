@@ -266,10 +266,10 @@
 		"menu.background": "#0c0c0c",
 		"menu.foreground": "#e60000",
 		"menu.selectionBackground": "#330000",
-		"menu.selectionForeground": "#fe5517",
+		"menu.selectionForeground": "#fe5717",
 		"menu.separatorBackground": "#660000",
 		"menubar.selectionBackground": "#003300",
-		"menubar.selectionForeground": "#fe5517",
+		"menubar.selectionForeground": "#fe5717",
 
 		"merge.border": "#e60000",
 		"merge.commonContentBackground": "#0c0c0c",

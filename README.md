@@ -1,6 +1,6 @@
 # Tron-Ares_Theme
 
-> Visual Studio Code color theme inspired by [**Tron Aresx**] https://en.wikipedia.org/wiki/Tron:_Ares
+> Visual Studio Code color theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
 
 ## Installation
 
