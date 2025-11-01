@@ -1,3 +1,7 @@
+## 0.1.4
+
+-Reordered Readme.md for better visibility
+
 ## 0.1.3
 
 - Updated README.md with proper licensing

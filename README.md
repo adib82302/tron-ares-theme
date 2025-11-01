@@ -4,11 +4,19 @@
 ![Downloads](https://img.shields.io/visual-studio-marketplace/d/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000&cacheSeconds=86400)
 ![License](https://img.shields.io/github/license/adib82302/tron-ares-theme?style=for-the-badge&color=%23ff0000)
 
+> VS Code theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
+
 <p align="center">
   <img src="https://images8.alphacoders.com/635/thumb-1920-635726.jpg" width="100%" alt="Tron-Ares Theme Banner">
 </p>
 
-> Visual Studio Code color theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
+<p align="center">
+  <sub><em>
+  Banner artwork: Tron: Legacy wallpaper on <a href="https://wall.alphacoders.com/big.php?i=635726">AlphaCoders</a><br>
+  Used under fair use for non-commercial, fan-theme purposes. All rights belong to their respective owners.
+  </em></sub>
+</p>
+
 
 It is an AGGRESIVELY red and black theme designed to mimic the Dillinger's Grid harsh and authoritarian system. According to my own fan-theory, this "grid" takes place inside a CPU rather than an entire server like Flynns grid, so the world design is very industrial, designed to produce output and nothing more. I hope this theme is able to achieve the same aesthetic and harshness.
 
@@ -59,7 +67,7 @@ and turning these parameters off
 5. *Settings* > *Themes* > *Color Theme* > *Tron Ares Theme*
 
 
-## Credits and IP 
+## Credits & Acknowledgments
 
 This theme is an independent fan creation inspired by Tron: Ares. All copyrights, trademarks, and related intellectual property for Tron, Tron: Ares, and associated designs, imagery, and logos are the property of The Walt Disney Company and its affiliates. This project is not affiliated with, endorsed by, or sponsored by Disney in any way.
 
