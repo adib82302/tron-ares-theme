@@ -1,5 +1,9 @@
 # Tron-Ares_Theme
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adib82302/tron-ares-theme/main/images/banner.png" width="100%" alt="Tron-Ares Theme Banner">
+</p>
+
 > Visual Studio Code color theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
 
 It is an AGGRESIVELY red and black theme designed to mimic the Dillinger's Grid harsh and authoritarian system. According to the fan-theory it is supposed to take place inside a CPU rather than an entire server like Flynns grid, so the world design is very industrial, designed to produce output and nothing more. I hope this theme is able to achieve the same aesthetic and harshness.
