@@ -2,6 +2,20 @@
 
 > Visual Studio Code color theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
 
+
+## PREVIEW
+
+![HTML](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/html.png)
+
+![Bracket Colors/ c++](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/bracket.png)
+
+![JSON](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/json.png)
+
+![Terminal](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/terminal.png)
+
+
+
+
 ## Installation
 
 1. Install and Launch [Visual Studio Code](https://code.visualstudio.com/)
