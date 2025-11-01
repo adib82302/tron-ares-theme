@@ -1,7 +1,7 @@
 # Tron-Ares_Theme
 
-![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000)
-![Downloads](https://img.shields.io/visual-studio-marketplace/d/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000)
+![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000&cacheSeconds=86400)
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000&cacheSeconds=86400)
 ![License](https://img.shields.io/github/license/adib82302/tron-ares-theme?style=for-the-badge&color=%23ff0000)
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 > Visual Studio Code color theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
 
-It is an AGGRESIVELY red and black theme designed to mimic the Dillinger's Grid harsh and authoritarian system. According to the fan-theory it is supposed to take place inside a CPU rather than an entire server like Flynns grid, so the world design is very industrial, designed to produce output and nothing more. I hope this theme is able to achieve the same aesthetic and harshness.
+It is an AGGRESIVELY red and black theme designed to mimic the Dillinger's Grid harsh and authoritarian system. According to my own fan-theory, this "grid" takes place inside a CPU rather than an entire server like Flynns grid, so the world design is very industrial, designed to produce output and nothing more. I hope this theme is able to achieve the same aesthetic and harshness.
 
 ## Features
 - Deep red-on-black aesthetic inspired by Tron: Ares 
