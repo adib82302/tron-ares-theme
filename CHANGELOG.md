@@ -1,6 +1,6 @@
 ## 0.1.1
 
-- Added pictures to readme for visual
+- Updated Readme.MD with visual examples of theme as well as in-depth description and documentation
 
 
 ## 0.1.0

@@ -1,5 +1,9 @@
 # Tron-Ares_Theme
 
+![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000)
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000)
+![License](https://img.shields.io/github/license/adib82302/tron-ares-theme?style=for-the-badge&color=%23ff0000)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/adib82302/tron-ares-theme/main/images/banner.png" width="100%" alt="Tron-Ares Theme Banner">
 </p>
@@ -7,6 +11,13 @@
 > Visual Studio Code color theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
 
 It is an AGGRESIVELY red and black theme designed to mimic the Dillinger's Grid harsh and authoritarian system. According to the fan-theory it is supposed to take place inside a CPU rather than an entire server like Flynns grid, so the world design is very industrial, designed to produce output and nothing more. I hope this theme is able to achieve the same aesthetic and harshness.
+
+## Features
+- Deep red-on-black aesthetic inspired by Tron: Ares 
+- Precision syntax contrast instead of loud colors  
+- Distinct bracket pair coloring inspired by *Tron: Legacy*  
+- Optimized for multiple coding languages 
+- Minimal eye strain under low ambient light
 
 ## PREVIEW
 
@@ -34,7 +45,8 @@ enabled which allows for this visual treat in the editor
 This should allow you to see your different functions and brackets in the sea of red  
 
 Feel free to disable the code bracket links and highlighting by pressing cmd-shift-p -> typing 
->Preferences: Open User Settings (JSON)   
+
+>Preferences: Open User Settings (JSON)    
 
 and turning these parameters off
 
@@ -47,7 +59,10 @@ and turning these parameters off
 5. *Settings* > *Themes* > *Color Theme* > *Tron Ares Theme*
 
 
+## Credits and IP 
+
 This theme is an independent fan creation inspired by Tron: Ares. All copyrights, trademarks, and related intellectual property for Tron, Tron: Ares, and associated designs, imagery, and logos are the property of The Walt Disney Company and its affiliates. This project is not affiliated with, endorsed by, or sponsored by Disney in any way.
 
 
-icon picture credit: https://cults3d.com/en/3d-model/art/tron-ares-disc
+> icon picture link: https://cults3d.com/en/3d-model/art/tron-ares-disc  
+> banner picture link: https://wall.alphacoders.com/big.php?i=635726
