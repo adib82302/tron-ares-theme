@@ -1,20 +1,7 @@
-## 0.1.4
+## [0.1.5]
 
--Reordered Readme.md for better visibility
+- Refined color palette and formatting in `Tron-Ares-color-theme.json` for consistency
 
-## 0.1.3
+## [0.1.1] 
 
-- Updated README.md with proper licensing
-
-## 0.1.2
-
-- Updated IOshield to properly display version number and download count
-
-## 0.1.1
-
-- Updated Readme.MD with visual examples of theme as well as in-depth description and documentation
-
-
-## 0.1.0
-
-- Initial release
+- Initial release of Tron-Ares Theme

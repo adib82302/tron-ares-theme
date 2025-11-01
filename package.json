@@ -1,10 +1,10 @@
 {
   "name": "tron-ares-theme",
   "displayName": "Tron-Ares-Theme",
-  "description": "A VS Code theme inspired by the movie 'Tron: Ares'.",
+  "description": "A VS Code theme inspired by the movie 'Tron: Ares'",
   "publisher": "AdibKhondoker",
   "homepage": "https://github.com/adib82302/tron-ares-theme",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "icon": "images/icon.png",
   "license": "MIT",
   "categories": ["Themes"],
