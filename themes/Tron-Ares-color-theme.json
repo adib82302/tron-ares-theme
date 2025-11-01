@@ -10,11 +10,11 @@
 		"activityBar.activeBorder": "#ffffff",
 		"activityBarBadge.background": "#b73400",
 		"activityBarBadge.foreground": "#000000",
-		"activityBar.activeFocusBorder": "#ff5100", // ex. right click an icon on left banner
+		"activityBar.activeFocusBorder": "#ff5100", 
 		"activityBar.inactiveForeground": "#a30101",
 
 		"badge.background": "#000000",
-		"badge.foreground": "#994001", //search result count
+		"badge.foreground": "#994001",
 
 		"breadcrumb.foreground": "#fe0000",
 		"breadcrumb.background": "#0c0c0c",
@@ -95,7 +95,7 @@
 		"editor.findMatchHighlightForeground": "#cfcfcf",
 		"editor.findRangeHighlightBackground": "#420000",
 
-//skip start###################################
+
 		"editor.focusedStackFrameHighlightBackground": "#ff0000",
 		"editor.foldBackground": "#0c0c0c",
 		"editor.hoverHighlightBackground": "#002200",
@@ -112,7 +112,7 @@
 		"editor.wordHighlightBackground": "#330000",
 		"editor.wordHighlightStrongBackground": "#330000",
 		"editor.wordHighlightStrongBorder": "#fe0000",
-//skip end#############################
+
 
 		"editorBracketHighlight.foreground1": "#ff5900",
 		"editorBracketHighlight.foreground2": "#b2b2b2",
@@ -141,20 +141,20 @@
 
 		"editorGutter.addedBackground": "#f98e8e",
 		"editorGutter.background": "#0c0c0c",
-		"editorGutter.commentRangeForeground": "#fe0000", //for git come back
-		"editorGutter.deletedBackground": "#b40000", //for git come back
+		"editorGutter.commentRangeForeground": "#fe0000", 
+		"editorGutter.deletedBackground": "#b40000",
 		"editorGutter.foldingControlForeground": "#fe5517",
 		"editorGutter.modifiedBackground": "#fe5517",
 
-		"editorHint.border": "#000000", //come back later
-		"editorHint.foreground": "#c20000",  //come back later
+		"editorHint.border": "#000000", 
+		"editorHint.foreground": "#c20000",  
 
 		"editorHoverWidget.background": "#0c0c0c",
 		"editorHoverWidget.border": "#fe5517",
 		"editorHoverWidget.foreground": "#fe5517",
 		"editorHoverWidget.statusBarBackground": "#0c0c0c",
 		"editorIndentGuide.activeBackground1": "#be0303",
-		// "editorIndentGuide.background1": "#adadad",
+
 
 		"editorIndentGuide.background1": "#ff5900",
 		"editorIndentGuide.background2": "#b2b2b2",
@@ -162,7 +162,7 @@
 		"editorIndentGuide.background4": "#ff00ea",
 		"editorIndentGuide.background5": "#ffe600",
 		"editorIndentGuide.background6": "#ff0000",
-		// needs work here
+	
 
 
 		"editorInfo.border": "#00fffb",
@@ -197,7 +197,7 @@
 		"editorOverviewRuler.warningForeground": "#ff0000",
 		"editorOverviewRuler.wordHighlightForeground": "#ff4800",
 		"editorOverviewRuler.wordHighlightStrongForeground": "#de0303",
-// weird ones above may need update once deployed
+
 		"editorPane.background": "#ff0000",
 		"editorRuler.foreground": "#e60000",
 		"editorSuggestWidget.background": "#000000",
@@ -208,7 +208,7 @@
 		"editorUnnecessaryCode.border": "#420000",
 		"editorUnnecessaryCode.opacity": "#00000080",
 
-		"editorWarning.foreground": "#dffe179f", //squiggly marks
+		"editorWarning.foreground": "#dffe179f", 
 		"editorWhitespace.foreground": "#0c0c0c80",
 		"editorWidget.background": "#0c0c0c",
 		"editorWidget.foreground": "#e60000",
@@ -251,8 +251,8 @@
 		"list.focusBackground": "#0c0c0c",
 		"list.focusForeground": "#e60000",
 		"list.highlightForeground": "#fe5517",
-		"list.hoverBackground": "#5d0000", //done
-		"list.hoverForeground": "#fc8c8c", //done
+		"list.hoverBackground": "#5d0000", 
+		"list.hoverForeground": "#fc8c8c", 
 		"list.inactiveFocusBackground": "#0c0c0c",
 		"list.inactiveSelectionBackground": "#0c0c0c",
 		"list.inactiveSelectionForeground": "#e60000",
@@ -270,7 +270,7 @@
 		"menu.separatorBackground": "#660000",
 		"menubar.selectionBackground": "#003300",
 		"menubar.selectionForeground": "#fe5517",
-// stop here
+
 		"merge.border": "#e60000",
 		"merge.commonContentBackground": "#0c0c0c",
 		"merge.commonHeaderBackground": "#000000",
@@ -374,20 +374,20 @@
 		"settings.textInputBackground": "#000000",
 		"settings.textInputBorder": "#e60000",
 		"settings.textInputForeground": "#e60000",
-		"sideBar.background": "#0c0c0c",  //done
-		"sideBar.dropBackground": "#0c0c0c", //done
-		"sideBar.foreground": "#cc0808fe", //done
-		"sideBar.border": "#420000", //done 
-		"sideBarSectionHeader.background": "#0c0c0c", //done 
-		"sideBarSectionHeader.border": "#420000", //done 
-		"sideBarSectionHeader.foreground": "#bc0000", //done
-		"sideBarTitle.foreground": "#b0b0b0ca", //done
+		"sideBar.background": "#0c0c0c", 
+		"sideBar.dropBackground": "#0c0c0c", 
+		"sideBar.foreground": "#cc0808fe", 
+		"sideBar.border": "#420000",  
+		"sideBarSectionHeader.background": "#0c0c0c",  
+		"sideBarSectionHeader.border": "#420000",  
+		"sideBarSectionHeader.foreground": "#bc0000", 
+		"sideBarTitle.foreground": "#b0b0b0ca", 
 		"statusBar.background": "#000000",
 		"statusBar.border": "#0c0c0c",
 		"statusBar.debuggingBackground": "#000000",
 		"statusBar.debuggingBorder": "#420000",
 		"statusBar.debuggingForeground": "#b40000",
-		"statusBar.foreground": "#f8f8f8ca", //done
+		"statusBar.foreground": "#f8f8f8ca", 
 		"statusBar.noFolderBackground": "#000000",
 		"statusBar.noFolderBorder": "#fe0000",
 		"statusBar.noFolderForeground": "#e60000",
@@ -435,8 +435,8 @@
 		"tab.activeForeground": "#ff6262",
 		"tab.activeModifiedBorder": "#ff4800",
 		"tab.border": "#000000",
-		"tab.hoverBackground": "#5d0000", //tinkering not done
-		"tab.hoverForeground": "#fc8c8c", //tinkering not done
+		"tab.hoverBackground": "#5d0000", 
+		"tab.hoverForeground": "#fc8c8c", 
 		"tab.inactiveBackground": "#080808",
 		"tab.inactiveForeground": "#fe0000",
 		"tab.inactiveModifiedBorder": "#fe0000",
@@ -481,11 +481,11 @@
 		"textCodeBlock.background": "#0c0c0c",
 		"textPreformat.foreground": "#e60000",
 		"textSeparator.foreground": "#e60000",
-		"titleBar.activeBackground": "#0c0c0c", //done
-		"titleBar.activeForeground": "#f8f8f8ca", //done
-		"titleBar.border": "#0c0c0c", //done
-		"titleBar.inactiveBackground": "#0c0c0c", //done
-		"titleBar.inactiveForeground": "#f8f8f8ca", //done
+		"titleBar.activeBackground": "#0c0c0c", 
+		"titleBar.activeForeground": "#f8f8f8ca", 
+		"titleBar.border": "#0c0c0c", 
+		"titleBar.inactiveBackground": "#0c0c0c", 
+		"titleBar.inactiveForeground": "#f8f8f8ca", 
 		"tree.indentGuidesStroke": "#e60000",
 		"walkThrough.embeddedEditorBackground": "#000000",
 		"welcomePage.background": "#0c0c0c",
