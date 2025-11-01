@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/visual-studio-marketplace/d/AdibKhondoker.tron-ares-theme?style=for-the-badge&color=%23ff0000&cacheSeconds=86400)
 ![License](https://img.shields.io/github/license/adib82302/tron-ares-theme?style=for-the-badge&color=%23ff0000)
 
-> VS Code theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
+> VS Code theme inspired by the movie [**Tron Ares (2025)**](https://en.wikipedia.org/wiki/Tron:_Ares)
 
 <p align="center">
   <img src="https://images8.alphacoders.com/635/thumb-1920-635726.jpg" width="100%" alt="Tron-Ares Theme Banner">
@@ -27,7 +27,7 @@ It is an aggresively red and black theme designed to mimic the Dillinger's Grid 
 - Optimized for multiple coding languages 
 - Minimal eye strain under low ambient light
 
-## Preview
+## Images
 
 ![HTML](https://raw.githubusercontent.com/adib82302/tron-ares-theme/main/images/html.png)
 
@@ -60,11 +60,11 @@ and turning these parameters off
 
 ## Installation
 
-1. Install and Launch [Visual Studio Code](https://code.visualstudio.com/)
-2. *Settings* > *Extensions* (or `Ctrl+Shift+X`)
-3. Search for **Tron Ares Theme**
-4. Click *Install*
-5. *Settings* > *Themes* > *Color Theme* > *Tron Ares Theme*
+1. Install [VS CODE](https://code.visualstudio.com/) and open
+2. *Settings* > *Extensions* 
+3. Search for Tron Ares Theme
+4. Install
+5. Settings > Themes > Color Theme > Tron Ares Theme
 
 
 ## Credits & Acknowledgments
