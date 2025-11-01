@@ -27,7 +27,7 @@ It is an aggresively red and black theme designed to mimic the Dillinger's Grid 
 - Optimized for multiple coding languages 
 - Minimal eye strain under low ambient light
 
-## PREVIEW
+## Preview
 
 ![HTML](https://raw.githubusercontent.com/adib82302/tron-ares-theme/main/images/html.png)
 
