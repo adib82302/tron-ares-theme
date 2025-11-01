@@ -2,16 +2,28 @@
 
 > Visual Studio Code color theme inspired by [**Tron Ares**] https://en.wikipedia.org/wiki/Tron:_Ares
 
+It is an AGGRESIVELY red and black theme designed to mimic the Dillinger's Grid harsh and authoritarian system. According to the fan-theory it is supposed to take place inside a CPU rather than an entire server like FLynns grid, so the world design is very industrial, designed to produce output and nothing more. I hope this theme is able to achieve the same aesthetic and harshness.
 
 ## PREVIEW
 
 ![HTML](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/html.png)
 
-![Bracket Colors/ c++](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/bracket.png)
+![Python](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/python.png)
 
 ![JSON](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/json.png)
 
 ![Terminal](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/terminal.png)
+
+
+There is syntax contrast, rather than outright highlighting. The brackets are different colors as an homage to Tron legacy. According to the User Settings JSON, I have   
+  "editor.guides.indentation": true,
+  "editor.guides.highlightActiveIndentation": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true
+
+enabled which allows for this visual treat in the editor
+
+![Bracket Colors](https://raw.githubusercontent.com/adib82302/tron-ares-theme/refs/heads/main/images/bracket.png)
 
 
 
